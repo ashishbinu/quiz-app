@@ -2,7 +2,7 @@
 
 A flutter app 
 
-<img src = "quiz app.gif">
+<img src = "quiz app.gif" width="30%">
 
 ## Getting Started
 
