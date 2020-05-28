@@ -2,7 +2,7 @@
 
 A flutter app 
 
-[![quiz app demo](./quiz app.gif)]
+<img src = "quiz app.gif">
 
 ## Getting Started
 
