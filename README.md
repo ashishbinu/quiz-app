@@ -2,6 +2,8 @@
 
 A flutter app 
 
+[![quiz app demo](./quiz app.gif)]
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
