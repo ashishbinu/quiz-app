@@ -1,6 +1,6 @@
 # Quiz App
 
-A flutter app 
+A flutter Quiz app to spend your leisure time
 
 <img src = "quiz app.gif" width="30%">
 
